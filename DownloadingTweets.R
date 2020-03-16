@@ -1,7 +1,7 @@
 ## Simple code to download thousands of tweets. 
 
 library(rtweet)
-# Visit this link to get your own API access: https://developer.twitter.com/en/apps/8555709
+# Visit this link to get your own API access: https://developer.twitter.com/
 
 # Your twitter app name
 appname <- "ExampleName"
